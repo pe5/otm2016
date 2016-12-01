@@ -6,3 +6,4 @@ tallennan tänne jotain
 MuutOkSIa ! ! ! !! 
 [Linkki kuvaan](https://github.com/pe5/otm2016/blob/master/dokumentointi/maarittelydokumentti.md)
 huijataan
+juksataan
